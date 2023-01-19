@@ -69,4 +69,4 @@ python_version = "3.8"
 
 
 # 関連記事
-[VSCodeの概要](/posts/vscode.md)
+[VSCodeの概要](/posts/vscode/)

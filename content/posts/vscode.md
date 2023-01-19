@@ -157,7 +157,7 @@ pip3 install numpy
 pip3 install matplotlib
 ```
 pytorchのインストールのみは他のモジュールとは異なる．
-詳しくは[こちら](/posts/torch.md)を参照してほしい．
+詳しくは[こちら](/posts/torch/)を参照してほしい．
  
 # その他便利な拡張機能
 VSCodeを使う上で便利な拡張機能を紹介する．
