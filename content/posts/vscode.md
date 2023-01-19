@@ -7,7 +7,7 @@ draft: True
 # VSCodeの概要
 VSCode(正式名称:**Visual Studio Code**)は，Microsoft社が提供するコードエディタである．
 
-<img src="./fig/1.png" alt="VSCodeのアイコン" width="200">
+<img src="1.png" alt="VSCodeのアイコン" width="200">
 
 - [VScodeのインストール方法](#vscodeのインストール方法)
 - [主な言語の使い方](#主な言語の使い方)
@@ -18,34 +18,34 @@ VSCode(正式名称:**Visual Studio Code**)は，Microsoft社が提供するコ�
 # VScodeのインストール方法
 1. VScodeをインストールするには[VScodeのサイト](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)にアクセスし，「今すぐダウンロード」を選択
 
-<img src="./fig/2.png" alt="VSCodeのサイト" width="400">
+<img src="2.png" alt="VSCodeのサイト" width="400">
 
 
 2. インストールしたいデバイスのOSを選択
 
-<img src="./fig/3.png" alt="デバイス選択画面" width="400">
+<img src="3.png" alt="デバイス選択画面" width="400">
 
 1. 選択すると```VSCode~~~.exe```という実行ファイルがダウンロードされるので実行
 
 2. 実行したら，下のような画面が表示されるため，「同意する」を選択し「次へ」
 
-<img src="./fig/4.png" alt="exe実行時の最初の画面" width="400">
+<img src="4.png" alt="exe実行時の最初の画面" width="400">
 
 3. 下のような画面が表示されたら，全てのチェックを外し，「PATHへの追加」にチェック
 
-<img src="./fig/5.png" alt="オプション選択画面" width="400">
+<img src="5.png" alt="オプション選択画面" width="400">
 
 ※ オプションの選択は任意だが，その他の2項目（エクスプローラーのディレクトリ~~~）にチェックを入れていくことで，下のように右クリックメニューにVSCodeが表示される
 
-<img src="./fig/6.png" alt="右クリック画面" width="400">
+<img src="6.png" alt="右クリック画面" width="400">
 
 1. 「インストール」をクリック
 
-<img src="./fig/7.png" alt="インストール画面" width="400">
+<img src="7.png" alt="インストール画面" width="400">
 
 5. 「完了」をクリックし，一度PCを再起動すればインストール完了
 
-<img src="./fig/8.png" alt="最終画面" width="400">
+<img src="8.png" alt="最終画面" width="400">
 
 # 主な言語の使い方
 ## C言語
@@ -60,19 +60,19 @@ VSCodeでC言語及びC++を編集・実行可能にするためには，GCC(C�
 2. ダウンロードした```tdm64-gcc-~~~.exe```を実行
 3. 実行後，以下の画面で「Create」を選択
 
-<img src="./fig/14.png" alt="" width="400">
+<img src="14.png" alt="" width="400">
 
 4. 「MinGW-w64/TDM64」を選択し，「Next」
 
-<img src="./fig/15.png" alt="" width="400">
+<img src="15.png" alt="" width="400">
 
 5. 保存先を参照(デフォルトでも可)し，「Next」
 
-<img src="./fig/16.png" alt="" width="400">
+<img src="16.png" alt="" width="400">
 
 6. インストールする項目(デフォルトでも可)を選択し，「Install」
 
-<img src="./fig/17.png" alt="" width="400">
+<img src="17.png" alt="" width="400">
 
 7. インストールが終われば「Next」->「Finish」で完了
 
@@ -80,25 +80,25 @@ VSCodeでC言語及びC++を編集・実行可能にするためには，GCC(C�
 
 1. VSCodeの左端にある下の画像(Extensions)を選択
 
-<img src="./fig/10.png" alt="拡張機能アイコン" width="100">
+<img src="10.png" alt="拡張機能アイコン" width="100">
 
 2. 「Search Extensions~~~」に「C++」と入力し，下の画像の拡張機能を「install」
 
-<img src="./fig/9.png" alt="C++" width="400">
+<img src="9.png" alt="C++" width="400">
 
 ### 実際に実行(C言語)
 
 1. 左端の一番上「Explorer」を選択し，「File->open Folder」でプログラムファイルを保存したフォルダを開く
 
-<img src="./fig/11.png" alt="フォルダの開き方" width="300">
+<img src="11.png" alt="フォルダの開き方" width="300">
 
 2. フォルダを開いたら，右クリックし「New File...」を選択
 
-<img src="./fig/12.png" alt="ファイルの作り方" width="300">
+<img src="12.png" alt="ファイルの作り方" width="300">
 
 3. ファイルの名前を```(プログラムファイルの名前).cpp```として保存すると下のようにC++のファイルが作成される
 
-<img src="./fig/13.png" alt="ファイルの作り方" width="400">
+<img src="13.png" alt="ファイルの作り方" width="400">
 
 4. 例として，以下のコードを書き，保存する
 ```
@@ -115,11 +115,11 @@ gcc -o TEST test.cpp
 ```
 コマンドを実行すると，下の画像のように```TEST.exe```という実行ファイルが作られる
 
-<img src="./fig/18.png" alt="方" width="400">
+<img src="18.png" alt="方" width="400">
 
 ```TEST.exe```を実行し，以下のように表示されたら終了
 
-<img src="./fig/19.png" alt="方" wiSdth="300">
+<img src="19.png" alt="方" wiSdth="300">
 
 ## Python
 VSCodeでPythonを編集・実行可能にするためには，C言語同様に拡張機能をインストールする必要がある．
@@ -135,31 +135,31 @@ VSCodeでPythonを編集・実行可能にするためには，C言語同様に�
 2. ダウンロードした```~.exe```を実行
 3. 一番下の「Add Python 3.x to Path」にチェックし，「Install now」
 
-<img src="./fig/25.png" alt="" width="400">
+<img src="25.png" alt="" width="400">
 
 ### 拡張機能のインストール(Python)
 
 1. VSCodeの左端にある下の画像(Extensions)を選択
 
-<img src="./fig/10.png" alt="拡張機能アイコン" width="100">
+<img src="10.png" alt="拡張機能アイコン" width="100">
 
 2. 「Search Extensions~~~」に「Python」と入力し，下の画像の拡張機能を「install」
 
-<img src="./fig/20.png" alt="Python" width="400">
+<img src="20.png" alt="Python" width="400">
 
 ### 実際に実行(Python)
 
 1. 左端の一番上「Explorer」を選択し，「File->open Folder」でプログラムファイルを保存したフォルダを開く
 
-<img src="./fig/11.png" alt="フォルダの開き方" width="300">
+<img src="11.png" alt="フォルダの開き方" width="300">
 
 2. フォルダを開いたら，右クリックし「New File...」を選択
 
-<img src="./fig/12.png" alt="ファイルの作り方" width="300">
+<img src="12.png" alt="ファイルの作り方" width="300">
 
 3. ファイルの名前を```(プログラムファイルの名前).py```として保存すると下のようにC++のファイルが作成される
 
-<img src="./fig/21.png" alt="ファイルの作り方" width="400">
+<img src="21.png" alt="ファイルの作り方" width="400">
 
 4. 例として，以下のコードを書き，保存する
 ```
@@ -168,7 +168,7 @@ print("Hello Would!")
 ```
 5. 「Ctrl + F5」で実行して以下のように表示されたら終了
 
-<img src="./fig/22.png" alt="" width="400">
+<img src="22.png" alt="" width="400">
 
 ### Pythonの便利なモジュール
 Pythonには様々なモジュールが存在する．
@@ -195,9 +195,9 @@ VSCodeを使う上で便利な拡張機能を紹介する．
 
 ※インストールすると，右下にポップアップが表示されるので「Restart」を選択
 
-<img src="./fig/23.png" alt="" width="300">
+<img src="23.png" alt="" width="300">
 
 ## インデント管理
 以下の拡張機能をインストールすることで，インデント管理が容易になる
 
-<img src="./fig/24.png" alt="" width="200">
+<img src="24.png" alt="" width="200">
