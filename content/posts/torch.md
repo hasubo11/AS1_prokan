@@ -10,7 +10,7 @@ pytorchとは，Pythonで用いることができるモジュールである．
 # pytorchのインストール
 1. [pytorchのサイト](https://pytorch.org/get-started/locally/)からインストールコマンドを得る．(OSとompute Platfromは自身のPCに合わせて選択する)
 
-<img src="fig/26.png" alt="" width="400">
+<img src="./fig/26.png" alt="" width="400">
 
 ```
 ## インストールコマンドの例
