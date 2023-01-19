@@ -119,7 +119,7 @@ gcc -o TEST test.cpp
 
 ```TEST.exe```を実行し，以下のように表示されたら終了
 
-<img src="/VScode/19.png" alt="方" wiSdth="300">
+<img src="/VScode/19.png" alt="方" width="300">
 
 ## Python
 VSCodeでPythonを編集・実行可能にするためには，C言語同様に拡張機能をインストールする必要がある．
