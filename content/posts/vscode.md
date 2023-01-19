@@ -131,7 +131,6 @@ VSCodeでPythonを編集・実行可能にするためには，C言語同様に�
 
 ### Pythonのインストール
 1. [Pythonのサイト](https://pythonlinks.python.jp/)からインストーラをダウンロード (バージョンは任意だが，OSには気を付ける)
-
 2. ダウンロードした```~.exe```を実行
 3. 一番下の「Add Python 3.x to Path」にチェックし，「Install now」
 
@@ -140,25 +139,20 @@ VSCodeでPythonを編集・実行可能にするためには，C言語同様に�
 ### 拡張機能のインストール(Python)
 
 1. VSCodeの左端にある下の画像(Extensions)を選択
-
 <img src="/VScode/10.png" alt="拡張機能アイコン" width="100">
 
 2. 「Search Extensions~~~」に「Python」と入力し，下の画像の拡張機能を「install」
-
 <img src="/VScode/20.png" alt="Python" width="400">
 
 ### 実際に実行(Python)
 
 1. 左端の一番上「Explorer」を選択し，「File->open Folder」でプログラムファイルを保存したフォルダを開く
-
 <img src="/VScode/11.png" alt="フォルダの開き方" width="300">
 
 2. フォルダを開いたら，右クリックし「New File...」を選択
-
 <img src="/VScode/12.png" alt="ファイルの作り方" width="300">
 
 3. ファイルの名前を```(プログラムファイルの名前).py```として保存すると下のようにC++のファイルが作成される
-
 <img src="/VScode/21.png" alt="ファイルの作り方" width="400">
 
 4. 例として，以下のコードを書き，保存する
