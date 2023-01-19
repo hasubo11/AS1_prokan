@@ -3,4 +3,4 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'mainroad'
 hasCJKLanguage = true
-summaryLength = 100
+summaryLength = 0
