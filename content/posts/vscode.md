@@ -18,7 +18,6 @@ VSCode(正式名称:**Visual Studio Code**)は，Microsoft社が提供するコ�
 1. VScodeをインストールするには[VScodeのサイト](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)にアクセスし，「今すぐダウンロード」を選択  
 <img src="/VScode/2.png" alt="VSCodeのサイト" width="400">
 
-
 2. インストールしたいデバイスのOSを選択  
 <img src="/VScode/3.png" alt="デバイス選択画面" width="400">
 
