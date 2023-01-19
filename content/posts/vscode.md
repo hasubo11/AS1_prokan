@@ -27,8 +27,7 @@ VSCode(正式名称:**Visual Studio Code**)は，Microsoft社が提供するコ�
 <img src="/VScode/4.png" alt="exe実行時の最初の画面" width="400">
 
 5. 下のような画面が表示されたら，全てのチェックを外し，「PATHへの追加」にチェック  
-<img src="/VScode/5.png" alt="オプション選択画面" width="400">
-
+<img src="/VScode/5.png" alt="オプション選択画面" width="400">  
 ※ オプションの選択は任意だが，その他の2項目（エクスプローラーのディレクトリ~~~）にチェックを入れていくことで，下のように右クリックメニューにVSCodeが表示される  
 <img src="/VScode/6.png" alt="右クリック画面" width="400">
 
