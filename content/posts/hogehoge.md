@@ -34,13 +34,13 @@ GitHubを使う上で必要な知識を解説する．
 Gitは，ローカルのパソコンで編集作業を行いファイルの修正履歴も管理できる分散型バージョン管理システムである．
 そして，GitHubはGitを用いたソフトウェア開発プロジェクトのための共有ウェブサービスを指す．
 つまり，「Gitはシステム，GitHubはGitを用いたサービス」ということである．
-Windowsの場合は，[Git for Windows](https://gitforwindows.org/)からインストールしよう．
-Macの場合は，[Download for macOS](https://git-scm.com/download/mac)からインストールしよう．
+Windowsの場合は，[「Git for Windows」](https://gitforwindows.org/)からインストールしよう．
+Macの場合は，[「Download for macOS」](https://git-scm.com/download/mac)からインストールしよう．
 2. Gitの初期設定
 インストールしたGitに対して自分のユーザー名とメールアドレスを登録しよう．
 ここで登録した内容はリポジトリに対してコミットした人の情報として履歴などに表示される．
 3. アカウント作成
-[GitHubのサイト](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)にアクセスし，GitHubのアカウントを作成する．
+[「GitHubのサイト」](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)にアクセスし，GitHubのアカウントを作成する．
 必要な情報は，ユーザーネーム，メールアドレス，及びパスワードである．
 4. リモートリポジトリを作成
    1. <img src="/GitHub/create_repo1.png" alt="create_repo" width="200">
@@ -84,8 +84,8 @@ $ git push origin master
 
 # GitHubおまけ
 1. GitHubでSSH接続したい  
-[GitHub SSH接続の方法](https://blog.cloud-acct.com/posts/u-github-ssh/)
+[「GitHub SSH接続の方法」](https://blog.cloud-acct.com/posts/u-github-ssh/)
 2. VScodeでGitHubを使う方法  
-[VScodeでGitHubを使う方法](https://miya-system-works.com/blog/detail/vscode-github/)
+[「VScodeでGitHubを使う方法」](https://miya-system-works.com/blog/detail/vscode-github/)
 3. SourceTreeでGitHubを使う方法  
-[SourceTreeでGitHubを使う](https://qiita.com/TAKANEKOMACHI/items/53058acc15d965d66798)
+[「SourceTreeでGitHubを使う」](https://qiita.com/TAKANEKOMACHI/items/53058acc15d965d66798)
