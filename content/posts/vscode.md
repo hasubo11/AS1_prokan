@@ -46,7 +46,7 @@ VSCode(正式名称:**Visual Studio Code**)は，Microsoft社が提供するコ�
 VSCodeでC言語及びC++を編集・実行可能にするためには，GCC(C言語のコンパイラ)と拡張機能をインストールする必要がある．
 
 ### GCCのインストール
-1. [サイト](ttps://jmeubank.github.io/tdm-gcc/)からインストーラをダウンロード（Windowsの人はMinGW-w64を選択）
+1. [サイト](https://jmeubank.github.io/tdm-gcc/)からインストーラをダウンロード（Windowsの人はMinGW-w64を選択）
 2. ダウンロードした```tdm64-gcc-~~~.exe```を実行
 3. 実行後，以下の画面で「Create」を選択  
 <img src="/VScode/14.png" alt="" width="400">
