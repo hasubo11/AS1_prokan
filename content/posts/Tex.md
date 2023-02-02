@@ -20,23 +20,23 @@ TeXは著名なコンピュータ科学者 Donald E. Knuthによって生み出�
 ## TeXLive2022のインストール（Win版のみ）
 以下の手順に従って**TeX Live**をインストールしてみましょう．
 
-1. 以下のリンクにアクセスする．
+1. 以下のリンクにアクセスする．  
 * [**https://tug.org/texlive/**](https://tug.org/texlive/)
 
-2. 自分のOSにあったインストーラーを選択する（今回は「**install on Windows**」）．
+2. 自分のOSにあったインストーラーを選択する（今回は「**install on Windows**」）．  
 <img src="/TeX/installer_url.png" alt="" width="300">
 
-3. インストーラーを起動すると以下の画面が出てくるので，詳細情報をクリックする．
-<img src="/TeX/first_step.png/19.png" alt="" width="300">
+3. インストーラーを起動すると以下の画面が出てくるので，詳細情報をクリックする．  
+<img src="/TeX/first_step.png" alt="" width="300">
 
-4. 以下の画面で「**Install**」を選択して，画面の指示に従って「**Next >**」 をクリックして進んで行く．
-<img src="/TeX/second_step.png/19.png" alt="" width="300">
+4. 以下の画面で「**Install**」を選択して，画面の指示に従って「**Next >**」 をクリックして進んで行く．  
+<img src="/TeX/second_step.png" alt="" width="300">
 
-5. 「**TeX Live インストーラー**」の画面が表示されるので，「**インストール**」をクリック
-<img src="/TeX/third_step.png/19.png" alt="" width="300">
+5. 「**TeX Live インストーラー**」の画面が表示されるので，「**インストール**」をクリック 
+<img src="/TeX/third_step.png" alt="" width="300">
 
-6. 以下の画面が表示されたらインストール完了です．
-<img src="/TeX/fourth_step.png/19.png" alt="" width="300">
+6. 以下の画面が表示されたらインストール完了です．  
+<img src="/TeX/fourth_step.png" alt="" width="300">
 
 # TeXの基本的な書き方
 TeXは基本的に「プリアンブル」 + 「ドキュメント」の2部構成担っています．
@@ -59,5 +59,5 @@ TeXは基本的に「プリアンブル」 + 「ドキュメント」の2部構�
 
 Overleafは[**コチラ**](https://www.overleaf.com/latex/templates)からアクセスできます．
 
-デフォルトでは日本語で動作しないため以下のリンクをよく読んで設定をしてください
+デフォルトでは日本語で動作しないため以下のリンクをよく読んで設定をしてください  
 * [**https://doratex.hatenablog.jp/entry/20180503/1525338512**](https://doratex.hatenablog.jp/entry/20180503/1525338512)
