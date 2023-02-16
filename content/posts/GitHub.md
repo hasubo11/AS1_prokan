@@ -42,8 +42,8 @@ Macの場合は，[Download for macOS](https://git-scm.com/download/mac)から�
 3. アカウント作成
 [GitHubのサイト](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)にアクセスし，GitHubのアカウントを作成する．
 必要な情報は，ユーザーネーム，メールアドレス，及びパスワードである．
-4. リモートリポジトリを作成
-   1. <img src="/GitHub/create_repo1.png" alt="create_repo" width="200">
+4. リモートリポジトリを作成  
+   <img src="/GitHub/create_repo1.png" alt="create_repo" width="200">
     上記画像右上の「New」ボタンをクリック
     <img src="/GitHub/create_repo2.png" alt="create_repo" width="200">
     リポジトリネームを設定した後は，リポジトリの種類を決定する．
@@ -62,18 +62,18 @@ $ cd pushtest
 ```
 $ git init
 ```
-6. ファイルを作成
+1. ファイルを作成
 続いては，任意のテキストファイルをディレクトリ「test」に作成する．
 ```
 $ vi test.txt
 ```
-7. ローカルリポジトリにコミット
+1. ローカルリポジトリにコミット
 先ほどのtest.txtファイルをローカルリポジトリにコミットしてみよう．
 ```
 $ git add test.txt
 $ git commit -m 'コミットメッセージ'
 ```
-8. リモートリポジトリにプッシュ
+1. リモートリポジトリにプッシュ
 先ほどローカルリポジトリにコミットしたファイルをリモートリポジトリにプッシュする．
 ```
 $ git remote add origin https://github.com/ユーザーID/test.git
