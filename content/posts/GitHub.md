@@ -43,9 +43,9 @@ Macの場合は，[Download for macOS](https://git-scm.com/download/mac)から�
 [GitHubのサイト](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)にアクセスし，GitHubのアカウントを作成する．
 必要な情報は，ユーザーネーム，メールアドレス，及びパスワードである．
 4. リモートリポジトリを作成  
-   <img src="/GitHub/create_repo1.png" alt="create_repo" width="200">
-    上記画像右上の「New」ボタンをクリック
-    <img src="/GitHub/create_repo2.png" alt="create_repo" width="200">
+   <img src="/GitHub/create_repo1.png" alt="create_repo" width="200">  
+    上記画像右上の「New」ボタンをクリック  
+    <img src="/GitHub/create_repo2.png" alt="create_repo" width="200">  
     リポジトリネームを設定した後は，リポジトリの種類を決定する．
     「Public」はソースコードを公開する場合のことを指し，「Private」は公開したくない場合に選択する．
     READMEファイルを事前にリポジトリファイルの中に作成したい場合は，「Add a README file」にチェックする．
